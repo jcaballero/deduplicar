@@ -3,7 +3,7 @@
 # Nombre: deduplica.sh
 # Funcion: Hace un inventario recurrente de todos los archivos contenidos en un directorio (incluye sus sub directorios) y mediante la comparacion de sus hash, guarda una copia de los archivos sin duplicados, manteniendo la estructura de directorio original en la carpeta revision
 # Parametros: Sin parametros
-# OBSERVACIION: para ejecutarse, se debe copiar en el directorio en donde se encuentran los archivos con duplicados.
+# OBSERVACION: para ejecutarse, se debe copiar en el directorio en donde se encuentran los archivos con duplicados.
 # ====================================
 
 # Crear (o vaciar) el CSV - Asegura de disponer de un archivo de inventario limpio
